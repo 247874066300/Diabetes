@@ -3,6 +3,8 @@
 Global diabetes data analysis based on IDF  
 
 **汇报时间**：2024年5月  
+---
+**特别说明**：该项目的网址是2024年4月之前使用的，不能保证后期能够正常使用（网站数据更新，数据删除等可能造成404）
 
 
 ---
@@ -17,8 +19,14 @@ Global diabetes data analysis based on IDF
 ---
 
 ## 选题背景
+2021年全球约有5.37亿成年人患有糖尿病，而预计到2030年，这一数字将增至6.43亿。同时，2021年约有670万人死于糖尿病。糖尿病已成为全球性的重大公共卫生问题，对人们的健康和生命安全造成了严重威胁。
+
+
 ### 研究意义
-- **数据来源**：国际糖尿病联盟（IDF）糖尿病地图集（[官网链接](https://diabetesatlas.org/data/en/country/)）。  
+- **数据来源**：
+-               国际糖尿病联盟（IDF）糖尿病地图集（[官网链接](https://diabetesatlas.org/data/en/country/1/af.html)）。
+-               Numbeo（[官网链接](https://www.numbeo.com/quality-of-life/)）
+-               全球肥胖观察网站（[官网链接](https://data.worldobesity.org/tables/prevalence-of-adult-overweight-obesity-2/)）
 - **全球现状**（2021年）：  
   - 糖尿病患者：5.37亿成年人（20-79岁），其中2.4亿未确诊。  
   - 死亡人数：670万（平均每5秒1人死亡）。  
