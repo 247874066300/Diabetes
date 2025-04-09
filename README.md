@@ -10,15 +10,15 @@ Global diabetes data analysis based on IDF
 ---
 
 ## （一）目录
-1. [（二）选题背景](#（二）选题背景)  
-2. [（三）数据获取与清洗](#（三）数据获取与清洗)  
-3. [（四）数据展示与可视化](#（四）数据展示与可视化)  
-4. [（五）建模与预测](#（五）建模与预测)  
-5. [（六）小组分工](#（六）小组分工)  
+1. [（二）选题背景](#topic-background)  
+2. [（三）数据获取与清洗](#data-acquisition-cleaning)  
+3. [（四）数据展示与可视化](#data-display-visualization)  
+4. [（五）建模与预测](#modeling-prediction)  
+5. [（六）小组分工](#group-division)  
 
 ---
-
-## （二）选题背景 [（三）数据获取与清洗](#（三）数据获取与清洗)    
+<a name="topic-background"></a>
+## （二）选题背景   
 2021年全球约有5.37亿成年人患有糖尿病，而预计到2030年，这一数字将增至6.43亿。同时，2021年约有670万人死于糖尿病。糖尿病已成为全球性的重大公共卫生问题，对人们的健康和生命安全造成了严重威胁。
 
 
@@ -41,8 +41,8 @@ Global diabetes data analysis based on IDF
   -  ![示例图像](/image/IGT_IFG/IFG.png)
 ---
 
+<a name="data-acquisition-cleaning"></a>
 ## （三）数据获取与清洗
--[（三）数据获取与清洗](#（三）数据获取与清洗)  
 ### 3.1 数据来源
 **3.1.1 IDF官网**：爬取222个国家2011-2045年的数据，包括：  
    - 糖尿病患病率、IGT/IFG人数及患病率、医疗支出等。  
@@ -62,7 +62,7 @@ Global diabetes data analysis based on IDF
 -    ![示例图像](/image/数据获取/04.png)
 ---
 
-
+<a name="data-display-visualization"></a>
 ## （四）数据展示与可视化
 ### 4.1. MAP——绘制函数
 - ![示例图像](/image/数据展示与绘图/01.png)
@@ -88,7 +88,7 @@ Global diabetes data analysis based on IDF
     - ![示例图像](/image/数据展示与绘图/07.png)
 
 ---
-
+<a name="modeling-prediction"></a>
 ## （五）建模与预测
 ### 5.1 获取特征值——热力图
 - **5.1.1 热力图——绘制函数**
@@ -126,7 +126,7 @@ Global diabetes data analysis based on IDF
 - 超重、肥胖、安全指数、医疗指数、污染指数贡献均衡（重要性0.17-0.22）。  
 
 ---
-
+<a name="group-division"></a>
 ## （六）小组分工
 - ![示例图像](/image/小组/01.png)
 ---
