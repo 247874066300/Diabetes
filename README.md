@@ -25,14 +25,18 @@ Global diabetes data analysis based on IDF
 ### 研究意义
 - **数据来源**：
 -               国际糖尿病联盟（IDF）糖尿病地图集（[官网链接](https://diabetesatlas.org/data/en/country/1/af.html)）。
+- ![示例图像](/image/Http/糖尿病.png)
 -               Numbeo（[官网链接](https://www.numbeo.com/quality-of-life/)）
+- ![示例图像](/image/Http/Numbeo.png)
 -               全球肥胖观察网站（[官网链接](https://data.worldobesity.org/tables/prevalence-of-adult-overweight-obesity-2/)）
+- ![示例图像](/image/Http/肥胖网.png)
 - **全球现状**（2021年）：  
   - 糖尿病患者：5.37亿成年人（20-79岁），其中2.4亿未确诊。  
   - 死亡人数：670万（平均每5秒1人死亡）。  
   - 预测：2030年患者数将增至6.43亿。  
 - **补充概念**：  
-  - **IGT（糖耐量减低）**：糖尿病前期状态，增加2型糖尿病风险。  
+  - **IGT（糖耐量减低）**：糖尿病前期状态，增加2型糖尿病风险。
+  -  
   - **IFG（空腹血糖受损）**：空腹血糖异常，提示糖尿病风险。  
 
 ---
