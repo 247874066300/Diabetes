@@ -36,9 +36,9 @@ Global diabetes data analysis based on IDF
   - 预测：2030年患者数将增至6.43亿。  
 - **补充概念**：  
   - **IGT（糖耐量减低）**：糖尿病前期状态，增加2型糖尿病风险。
-  -  
+  -  ![示例图像](/image/IGT_IFG/IGT.png)
   - **IFG（空腹血糖受损）**：空腹血糖异常，提示糖尿病风险。  
-
+  -  ![示例图像](/image/IGT_IFG/IFG.png)
 ---
 
 ## 数据获取与清洗
